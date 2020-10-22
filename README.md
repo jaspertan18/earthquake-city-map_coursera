@@ -7,6 +7,6 @@
 1. Hovering over a cityMarker shows the nearest earthquake and its magnitude.
 ![onhover](https://github.com/jaspertan18/earthquake-city-map_coursera/blob/main/onhover.PNG)
 ## OnClick ##
-1. Clicking on a cityMarker hides all markers except the city that has been clicked and nearby earthquakes.
+1. Clicking on a cityMarker hides all markers except nearby earthquakes and the city that has been clicked.
 2. A popout window showing total number of nearby earthquakes, average magnitude and the most recent earthquake.
 ![onclick](https://github.com/jaspertan18/earthquake-city-map_coursera/blob/main/onclick.PNG)
